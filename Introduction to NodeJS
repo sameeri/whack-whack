@@ -1,18 +1,21 @@
 Node.js welcomes you to the world of server side JavaScript!
 
-
 Today's world offers a bunch of different server side technologies that we could choose from:
-C# (ASP.NET, ASP.NET MVC)
-PHP
-Ruby (Ruby on Rails)
-Python
-Java (Spring MVC, JSF, JSP & the kind)
+
+* C# (ASP.NET, ASP.NET MVC)
+* PHP
+* Ruby (Ruby on Rails)
+* Python
+* Java (Spring MVC, JSF, JSP & the kind
+
 When it comes to JavaScript on the server side, the current trend and popular solution is Node.js.
 Being able to build the complete stack on top of JavaScript delights the community.
 
 Node.js has taken the world by storm and these are the people who are using node.
 
-From it's birth to current date, node has grown tremendously and it's one of the largest project being followed. Ya, it's open source and it exists on github. The company joyent currently sponsors this project.
+From it's birth to current date, node has grown tremendously and it's one of the largest project being followed. 
+
+Yes, it is open source and it exists on github. The company joyent currently sponsors this project.
 
 Let's get started with working on Node.js. I shall use windows as my OS to demonstrate the examples.
 
