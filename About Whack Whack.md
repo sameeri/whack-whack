@@ -15,7 +15,7 @@ Since this blog would be writings on the web domain, and more.. i said well how 
 
 And then.. Whack would also stand out for web hacking, essentially specifying things you develop for the web, in a white hat note!
 
-And the Whack>Web Application Space, enclosed in markup tags, would call out to every reader! 
+And the <Whack>Web Application Space</Whack>, enclosed in markup tags, would call out to every reader! 
 
 Anyways, honoring http, the web and and the markup, i said let's bring it on! 
 
